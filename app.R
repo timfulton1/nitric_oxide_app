@@ -1,5 +1,6 @@
 # Nitric Oxide Analysis App
 # Built by Tim Fulton, Oct 2022
+# Updated by Tim Fulton, July 2024
 
 # Source helper script
 source("scripts/utils.R")
