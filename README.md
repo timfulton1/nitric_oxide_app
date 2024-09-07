@@ -4,8 +4,6 @@ This repo contains the code used to build the analysis application.
 
 Visit the app here: https://timfulton.shinyapps.io/Nitric_Oxide_Analysis_App/
 
-The app is optimized for Safari, Firefox, and Chrome, but may render differently depending on the browser.  
-
 <img width="1736" alt="NO App" src="https://github.com/user-attachments/assets/a9ed724a-e561-4cb6-84b8-8ed62af9b20c">
 
 
