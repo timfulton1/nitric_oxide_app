@@ -9,7 +9,7 @@ Visit the app here: https://timfulton.shinyapps.io/Nitric_Oxide_Analysis_App/
 
 ### Background
 
-I developed this app during my postdoctoral fellowship to measure blood plasma nitrite (NO₂⁻) and nitrate (NO₃⁻) concentrations through the analysis of nitric oxide (NO) using chemiluminescence. 
+I developed this app during my postdoctoral fellowship to determine blood plasma nitrite (NO₂⁻) and nitrate (NO₃⁻) concentrations through the analysis of nitric oxide (NO) levels using using chemiluminescence. 
 
 
 ### Usage
