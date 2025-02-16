@@ -5,10 +5,9 @@ account: timfulton
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12404549
-bundleId: 9052638
+bundleId: 9071462
 url: https://timfulton.shinyapps.io/Nitric_Oxide_Analysis_App/
-when: 1725284256.75704
-lastSyncTime: 1725284256.75706
+when: 1725656628.18315
+lastSyncTime: 1725656628.18316
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: data/Standard_Curve_06_13_23.xls|data/Standard_Curve_06_13_23.xlsx
