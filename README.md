@@ -4,7 +4,7 @@ This repo contains the code used to build the analysis application.
 
 Visit the app here: https://timfulton.shinyapps.io/Nitric_Oxide_Analysis_App/
 
-<img width="1736" alt="NO App" src="https://github.com/user-attachments/assets/a9ed724a-e561-4cb6-84b8-8ed62af9b20c">
+<img width="1854" alt="nitric_oxide_app_image" src="https://github.com/user-attachments/assets/4abe06dd-2e25-4574-948c-7623618629cf" />
 
 
 ### Background
