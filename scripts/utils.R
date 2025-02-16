@@ -33,7 +33,8 @@ load_and_process_data <- function(file_path) {
   
   #remove unused columns
   raw_data <- raw_data %>% 
-    dplyr::select(NO)
+    dplyr::select(NO) %>% 
+    filter(!is.na(NO))
   
   #add time column with sampling rate of 4Hz
   raw_data$Time <- seq(0, (nrow(raw_data)/4-0.25), 0.25)

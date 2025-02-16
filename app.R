@@ -10,7 +10,10 @@ ui <- page_fillable(
   padding = 15,
   gap = 15,
   titlePanel(HTML("<b>Nitric Oxide Analysis</b>"), "Nitric Oxide Analysis"),
-  style = "background-color: #EBEDF1;",
+  style = "background-color: #E9E9E9;",
+  tags$head(
+    tags$link(rel = "stylesheet", type = "text/css", href = "normalize.css")
+  ),
   tags$style(".progress-bar{background-color:#083A57;}"),
   tags$style(HTML(".js-irs-0 .irs-single, .js-irs-0 .irs-bar, .js-irs-0 .irs-handle, js-irs-0 .irs-handle {background: #083A57} .js-irs-0 .irs-handle:hover, js-irs-0 .irs-handle:active {background: #083A57}")),
   tags$style(HTML(".js-irs-1 .irs-single, .js-irs-1 .irs-bar, .js-irs-1 .irs-handle, js-irs-1 .irs-handle {background: #849DAB} .js-irs-1 .irs-handle:hover, js-irs-1 .irs-handle:active {background: #849DAB}")),
